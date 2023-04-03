@@ -1,3 +1,9 @@
+## I'm a Developer, and Mentor!!
+
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 Goals: Learn more about web3 and Salesforce
+- ⚡ Fun fact: Ctrl C + Ctrl V 😁😁
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabhdixit2303) 
